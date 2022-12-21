@@ -26,6 +26,9 @@ h1{
     border-radius: 5px;
     margin-bottom: 2rem;
 }
+.card:hover{
+    height: 320px;
+}
 img{
     float: left;
     width: 400px;
@@ -36,7 +39,7 @@ img{
 }
 img:hover{
     width: 450px;
-    height: 300px;
+    height: 280px;
     
 }
 h3{
